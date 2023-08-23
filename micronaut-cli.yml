@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.example
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [annotation-api, app-name, data, data-jpa, flyway, gradle, h2, hibernate-jpa, http-client-test, jdbc-hikari, junit, kapt, kotlin, kotlin-application, logback, micronaut-aot, micronaut-build, mockito, netty-server, openapi, properties, readme, serialization-jackson, shade, swagger-ui, testcontainers, tracing-opentelemetry-annotations, tracing-opentelemetry-exporter-otlp, tracing-opentelemetry-http, tracing-opentelemetry-xray]
